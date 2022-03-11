@@ -14,12 +14,14 @@ Once you are on the Home Page, you have three links in the navbar
 
 - Responsive design.
 - Navigation Tabs.
+- Google maps integration
+
 ## Improvements
 
 Features that I am going to add to this app:
 - Move from HTML and Vanilla CSS to React JS Framework
     
-    Restaurant page built with https://cigmaian.github.io/restaurant-page-online/ webpack.
+
 
 
 
