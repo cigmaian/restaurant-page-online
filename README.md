@@ -8,7 +8,7 @@ Once you are on the Home Page, you have three links in the navbar
 
 - Home.- To return to the Home Page.
 - Menu.- A small fraction of the Dishes that we serve.
-- About.- About Us section.
+- Contact.- Contact Us section.
 
 ## Features
 
