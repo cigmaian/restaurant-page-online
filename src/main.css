@@ -218,10 +218,8 @@ button {
   padding: 1rem;
 }
 
-.contact img {
-  max-height: 420px;
-  padding: 1rem;
-  opacity: 90%;
+.contact p:nth-child(2){
+  margin-bottom: 10px;
 }
 
 /* Footer */
